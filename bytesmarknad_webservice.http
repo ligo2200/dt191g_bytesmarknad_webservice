@@ -1,0 +1,6 @@
+@bytesmarknad_webservice_HostAddress = http://localhost:5030
+
+GET {{bytesmarknad_webservice_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
